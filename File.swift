@@ -8,5 +8,6 @@
 
 import Foundation
 
+//expressions is not allowed at the top level
 
-print("we need something else")
+//print("we need something else")
